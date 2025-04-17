@@ -1,0 +1,2 @@
+# Analyzing-Solar-Generation-and-Battery-Usage-Project
+The project analyzes solar electricity generation, electricity usage, and battery usage data to understand the potential benefits of using a battery system to store excess solar electricity. Through the project I utilized SQL and python programming language and various libraries including pandas for data manipulation, numpy for numerical operations
