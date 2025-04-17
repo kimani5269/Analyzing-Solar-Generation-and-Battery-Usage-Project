@@ -26,4 +26,5 @@ The electricity bought when using the battery is calculated by subtracting the e
 To quantify the potential savings from installing a battery, the project calculates the cost difference between buying electricity from the provider without a battery and buying electricity with a battery. The electricity price is assumed to be $0.17 per kWh.
 
 Conclusion
+
 This project demonstrates the process of analyzing solar electricity generation, electricity usage, and battery usage data. It showcases various data manipulation techniques, calculations, and data visualization methods using Python and its libraries. The results provide insights into the potential benefits of utilizing a battery system to store excess solar electricity, leading to potential cost savings and increased energy efficiency.
